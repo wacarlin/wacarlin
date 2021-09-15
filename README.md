@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wacarlin, Sr Customer Engineer @ Microsoft
+- 👋 Hi, I’m @wacarlin, Sr Customer Engineer Dynamics 365 CE @ Microsoft
 
 <!---
 wacarlin/wacarlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
